@@ -1,0 +1,13 @@
+{
+  "name": "pangea-webslides",
+  "version": "1.0.0",
+  "description": "A webslide implementation for the Pangea team",
+  "main": "index.html",
+  "scripts": {
+  },
+  "author": "voltage825@gmail.com",
+  "license": "WTFPL",
+  "dependencies": {
+    "webslides": "^1.4.2"
+  }
+}
